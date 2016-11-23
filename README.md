@@ -9,15 +9,10 @@ This repository is a module of the full [primer-css][primer] repository.
 
 ## Documentation
 
-You can read more about alerts in the [docs][docs].
-
 <!-- %docs
 title: Page sections
-homepage: https://github.com/primer/primer-page-sections
 status: In review
 -->
-
-### Page Sections
 
 Documentation & refactor coming very soon
 
